@@ -3,34 +3,66 @@
     {
       "id": 1,
       "username": "john_doe",
-      "password": "pass123",
-      "bookmark": []
+      "password": "pass123"
+    
     },
     {
       "id": 2,
       "username": "emma_smith",
-      "password": "abc456",
-      "bookmark": []
+      "password": "abc456"
+    
     },
     {
       "id": 3,
       "username": "alex_jones",
-      "password": "qwerty",
-      "bookmark": []
+      "password": "qwerty"
+    
     },
     {
       "id": 4,
       "username": "sarah_adams",
-      "password": "p@ssw0rd",
-      "bookmark": []
+      "password": "p@ssw0rd"
+    
     },
     {
       "id": 5,
       "username": "mike_brown",
-      "password": "securePW789",
-      "bookmark": []
+      "password": "securePW789"
+    
     }
+  
   ],
+  "dashboard":[
+      {
+        "userId":1,
+        "bookmark":[
+      
+        ]
+      },
+       {
+        "userId":2,
+        "bookmark":[
+          
+        ]
+      },
+       {
+        "userId":3,
+        "bookmark":[
+          
+        ]
+      }, {
+        "userId":4,
+        "bookmark":[
+          
+        ]
+      },
+       {
+        "userId":1,
+        "bookmark":[
+          
+        ]
+      }
+    ],
   "sports": [
     {
       "id": 1,
@@ -4092,7 +4124,7 @@
       "description": "US firm OpenAI debuted a tool last week that can generate highly realistic snippets of video from just a few lines of text, leading content creators to wonder if they are the latest professionals about to be replaced by algorithms.",
       "url": "https://www.ndtv.com/world-news/youtubers-split-over-openais-video-tool-sora-5102240",
       "urlToImage": "https://c.ndtvimg.com/2024-02/qh7qb6ao_sora-do-not-use_625x300_21_February_24.jpeg?ver-20240117.06",
-      "category_section": "technolog",
+      "category_section": "technology",
       "content": "OpenAI said in its announcement that Sora was not yet available to the public.US firm OpenAI debuted a tool last week that can generate highly realistic snippets of video from just a few lines of text, leading content creators to wonder if they are the latest professionals about to be replaced by algorithms.Reactions to the tool, called Sora, have ranged from head-over-heels enthusiasm to alarm over the future direction of the industry.YouTuber Marques Brownlee called it frightening and threatening to see an AI doing his job.Powered By VDO.AIVideo Player is loading.PauseUnmuteFullscreen On the other hand, Caleb Ward, one half of AI filmmaking duo Curious Refuge, told his YouTube followers he could not wait to get his hands on the tool.Yet both Ward and Brownlee agreed that it was a massive moment for their industry.I can't stress enough how big a deal this is for the filmmaking and creative world, said Ward, who recently went viral with a trailer he created for a Wes Anderson-style Star Wars movie.OpenAI, the company behind ChatGPT, said in its announcement that Sora was not yet available to the public.The announcement did not specify use cases but said a number of visual artists, designers and filmmakers had been chosen to help test it.",
       "category": "top-news",
       "comments": [
