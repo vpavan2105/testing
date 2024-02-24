@@ -34,34 +34,71 @@
   ],
   "dashboard":[
       {
-        "userId":1,
+        "id":1,
         "bookmark":[
-      
+          {
+      "id": 1,
+      "author": "Selena Li, Lawrence White",
+      "title": "HSBC's $3 bln China writedown mars record annual profit ",
+      "description": "HSBC Holdings reported a record annual profit, that nonetheless came in below analysts' forecasts as the income boost from higher interest rates was offset by a hefty $3 billion charge from its stake in a Chinese bank.",
+      "url": "https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/",
+      "urlToImage": "https://www.reuters.com/resizer/Hu9id-e66i8ac92p9iHFtdcjGGI=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VB3DDTLOEZKV5BUBAAJAC42J5A.jpg",
+      "category_section": "business",
+      "content": "HONG KONG/LONDON, Feb 21 (Reuters) - HSBC Holdings (HSBA.L), opens new tab on Wednesday reported a shock $3 billion charge on its stake in a Chinese bank amid mounting bad loans in the country, sending the British bank's shares plunging and taking the shine off its record annual profit.HSBC's shares slid as much as 8% in London, heading for their worst single-day drop since the COVID-19 pandemic erupted in March 2020HSBC's $3 billion impairment on its stake in China's Bank of Communications (BoCom) is the largest yet by an overseas lender, as the country's real estate crisis deepens and its economic recovery stalls.Chief Executive Noel Quinn told reporters the writedown had not been triggered by any conversations with regulators, but came as accounting rules triggered a review of the value HSBC assigned to its 19% stake in BoCom.The bank's annual report released on Tuesday said that recent macroeconomic, policy and industry-wide factors resulted in a wider range of valuations for HSBC's BoCom stake than had previously been the case.",
+      "category": "top-news",
+      "comments": [
+        {
+          "user": "FinanceEnthusiast",
+          "comment": "HSBC's performance reflects the complexities of the global banking landscape. The China writedown underscores the challenges faced by multinational financial institutions."
+        },
+        {
+          "user": "EconomicObserver",
+          "comment": "The $3 billion writedown in China is significant and could have implications for HSBC's future strategies in the region."
+        }
+      ]
+          },
+          {
+      "id": 6,
+      "author": "PTI",
+      "title": "Tata Steel, JSW Steel Among Bidders For Mines Under Commercial Coal Block Auction",
+      "description": "\"A total of 27 companies including major companies like Tata Steel Ltd, JSW Steel Ltd, Rungta Sons Pvt Ltd., etc.  have submitted their bids in the auction process,\" the coal ministry said in a statement.",
+      "url": "https://www.ndtvprofit.com/business/tata-steel-jsw-steel-among-bidders-for-mines-under-commercial-coal-block-auction",
+      "urlToImage": "https://media.assettype.com/bloombergquint%2F2024-02%2F8f10fc36-4556-4806-bb56-da60c74335d1%2FTata_Steel_produces_35_million_tons_of_crude_steel_per_annum_and_is_committed_to_achieving_carbon_ne.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
+      "category_section": "business",
+      "content": "Tata Steel, JSW Steel and Rungta Sons are among the 27 companies which have submitted bids for coal blocks put up for commercial mines auction, the government said on Tuesday. A total of 27 companies including major companies like Tata Steel Ltd, JSW Steel Ltd, Rungta Sons Pvt Ltd., etc. have submitted their bids in the auction process, the coal ministry said in a statement.Other companies which submitted bids include ACC Ltdd, J K Cement and Thriveni Earthmovers.A total of 27 coal mines have been put up for auction in the ninth round of auction. A total of 33 bids were received for 13 coal mines.Under the second attempt of the seventh round of auction, a total of five coal mines were put up for auction and seven bids were received against three coal mines, the coal ministry said.The online bids were decrypted and opened electronically in the presence of the bidders. Subsequently, sealed envelopes containing offline bid documents were also opened in the presence of bidders. Entire process was displayed on the screen for the bidders, the ministry said.In 2020, Prime Minister Narendra Modi launched the auction process for 41 coal blocks for commercial mining, a move that opened India's coal sector for private players.",
+      "category": "national",
+      "comments": [
+        {
+          "user": "BusinessObserver",
+          "comment": "The participation of major steel companies like Tata Steel and JSW Steel in the commercial coal block auction reflects the significance of the coal sector in India's industrial landscape."
+        },
+        {
+          "user": "EconomicAnalyst",
+          "comment": "The outcome of the auction will likely have implications for the steel industry and the broader economy. It will be interesting to see how the bidding process unfolds."
+        }
+      ]
+         }
+
         ]
       },
        {
-        "userId":2,
+        "id":2,
         "bookmark":[
           
         ]
       },
        {
-        "userId":3,
+        "id":3,
         "bookmark":[
           
         ]
       }, {
-        "userId":4,
-        "bookmark":[
-          
-        ]
-      },
-       {
-        "userId":1,
+        "id":4,
         "bookmark":[
           
         ]
       }
+      
     ],
   "sports": [
     {
